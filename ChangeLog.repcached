@@ -1,3 +1,6 @@
+2013-05-28 Erez Zarum
+ * backported for memcached-1.4.15 from freebsd patches
+
 2011-02-14  Maxim Dounin
 
   * release of repcached-2.3.1 for memcached-1.4.5
